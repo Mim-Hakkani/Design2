@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+.social-icons ul li a {
+    padding: 15px 15px;
+   
+
+}
+.ui-tabs .ui-tabs-nav li {
+    width: 100%;
+}
+
+}
